@@ -12,4 +12,9 @@
     <string name="pesos">Pesos</string>
     <string name="tipo">kind</string>
     <string name="valor">amount to bi Paid</string>
+    <string name="oro">gold</string>
+    <string name="oro_rosado">rose gold</string>
+    <string name="plata">silver</string>
+    <string name="niquel">nickel</string>
+    <string name="martillo"></string>
 </resources>

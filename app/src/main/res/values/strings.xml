@@ -19,6 +19,8 @@
     <string name="oro_rosado">Oro Rosado</string>
     <string name="plata">Plata</string>
     <string name="niquel">Niquel</string>
+    <string name="message_error_uno">Digite la cantidad de manillas</string>
+    <string name="message_error_dos">seleccione un tipo de moneda</string>
     <string-array name="material">
         <item>@string/cuero</item>
         <item>@string/cuerda</item>
