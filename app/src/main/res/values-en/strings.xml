@@ -18,7 +18,7 @@
     <string name="niquel">nickel</string>
     <string name="martillo">hammer</string>
     <string name="cuerda">rope</string>
-    <string name="cuero">rope</string>
+    <string name="cuero">" leather"</string>
     <string name="message_error_dos">"Select a currency type "</string>
     <string name="message_error_uno">Enter the number of handles</string>
     <string name="Ancla">anchor</string>
