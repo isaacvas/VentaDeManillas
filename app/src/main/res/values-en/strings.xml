@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VentaDeManillas</string>
+    <string name="arma_tu_manilla">"Arm Your Handle "</string>
+    <string name="borrar">Delete</string>
+    <string name="calcular">calculate</string>
+    <string name="cantidad">Number of Handles</string>
+    <string name="dije">Pendant</string>
+    <string name="dolar">Dollar</string>
+    <string name="material">material</string>
+    <string name="moneda">coin</string>
+    <string name="pesos">Pesos</string>
+    <string name="tipo">kind</string>
+    <string name="valor">amount to bi Paid</string>
+</resources>
