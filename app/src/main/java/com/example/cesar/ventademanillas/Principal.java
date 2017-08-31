@@ -28,7 +28,9 @@ public class Principal extends AppCompatActivity {
         cant = (EditText) findViewById(R.id.txtCantidad);
         material = (Spinner) findViewById(R.id.cmbMaterial);
         dije = (Spinner) findViewById(R.id.cmbDije);
-        tipo = (Spinner) findViewById(R.id.cmbMaterial);
+        tipo = (Spinner) findViewById(R.id.cmbTipo);
+        dolar = (RadioButton)findViewById(R.id.rBDolar);
+        peso = (RadioButton)findViewById(R.id.rBPesos);
         resources = this.getResources();
         ma = resources.getStringArray(R.array.material);
         di = resources.getStringArray(R.array.dije);
